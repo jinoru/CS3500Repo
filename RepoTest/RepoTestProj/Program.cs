@@ -16,5 +16,10 @@ namespace RepoTestProj
         {
             Console.WriteLine("TestRepo");
         }
+
+        int TestMethod()
+        {
+            return 0;
+        }
     }
 }
