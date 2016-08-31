@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepoTestProj", "RepoTestProj\RepoTestProj.csproj", "{A84A13EE-6308-4B1E-922D-7750A533E146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84A13EE-6308-4B1E-922D-7750A533E146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84A13EE-6308-4B1E-922D-7750A533E146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84A13EE-6308-4B1E-922D-7750A533E146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84A13EE-6308-4B1E-922D-7750A533E146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
