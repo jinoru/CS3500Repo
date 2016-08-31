@@ -14,7 +14,9 @@ namespace RepoTestProj
         
         static void Main(string[] args)
         {
-            Console.WriteLine("TestRepo");
+            int x = 5;
+            Console.WriteLine("TestRepo" + x);
+
         }
 
         /// <summary>
@@ -23,7 +25,7 @@ namespace RepoTestProj
         /// <returns></returns>
         int TestMethod()
         {
-            return 0;
+            return 17;
         }
     }
 }
