@@ -24,7 +24,7 @@ namespace RepoTestProj
         /// <returns></returns>
         int TestMethod()
         {
-            return 0;
+            return 17;
         }
     }
 }
