@@ -17,6 +17,10 @@ namespace RepoTestProj
             Console.WriteLine("TestRepo");
         }
 
+        /// <summary>
+        /// Test method returning 0
+        /// </summary>
+        /// <returns></returns>
         int TestMethod()
         {
             return 0;
