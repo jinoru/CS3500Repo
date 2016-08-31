@@ -14,7 +14,8 @@ namespace RepoTestProj
         
         static void Main(string[] args)
         {
-            Console.WriteLine("TestRepo");
+            int x = 20;
+            Console.WriteLine("TestRepo" + x);
         }
 
         /// <summary>
